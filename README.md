@@ -5,5 +5,5 @@
 
 ### :ok_hand: Skills
 - Python, C++, Java
-- Pytorch, Wandb, Optuna, PySpark
+- Pytorch, Optuna, MMDetection, Huggingface, librosa, PySpark
 

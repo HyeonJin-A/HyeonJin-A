@@ -4,6 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bdh03218@gmail.com)](mailto:bdh03218@gmail.com)
 
 ### :ok_hand: Skills
-- Python, C++, Java
-- Pytorch, Optuna, MMDetection, Huggingface, librosa, PySpark
+- Python, C++, SQL, Linux
+- PyTorch, Pandas, SQLite, Optuna, MMDetection, Huggingface, Librosa, PySpark
 

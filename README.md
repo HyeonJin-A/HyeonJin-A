@@ -5,5 +5,5 @@
 
 ### :ok_hand: Skills
 - Python, C++, SQL, Linux
-- PyTorch, Pandas, SQLite, Optuna, MMDetection, Huggingface, Librosa, PySpark
+- PyTorch, Pandas, SQLite3, Tableau, GCP, Librosa, PySpark, Optuna, MMDetection, Huggingface
 

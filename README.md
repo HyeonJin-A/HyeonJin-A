@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bdh03218@gmail.com)](mailto:bdh03218@gmail.com)
 
 ### :ok_hand: Skills
-- Python, C++, SQL, Linux
-- PyTorch, Pandas, SQLite3, Tableau, GCP, Librosa, PySpark, Optuna, MMDetection, Huggingface
-
+- Python, Linux, SQL, C++, Java, HTML, JS, Go
+- HuggingFace, PyTorch, Pandas, Scikit-learn, Spark, Seaborn, VectorDB, LangChain
+- VueJS, Spring, FastAPI
+- Docker, K8S, Helm
